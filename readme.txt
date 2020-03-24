@@ -1,1 +1,2 @@
-This is readme
+This is my  readme
+Git is free software
